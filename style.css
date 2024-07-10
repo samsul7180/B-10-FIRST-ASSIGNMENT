@@ -24,6 +24,7 @@ font-family: "Azeret Mono", monospace;
     line-height: 68px;
     letter-spacing: 0%;
     text-align: center;
+
 }
 #hero .hero-content .para{
     color: rgb(13, 19, 33);
@@ -60,6 +61,40 @@ right: -215.41%;
 top: 0%;
 bottom: 4.63%;
 transform: rotate(180.00deg);
+}
+/* 2nd section */
+
+.header{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+}
+.header-content{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+}
+
+
+.part-1{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 20px;
+
 }
 
 

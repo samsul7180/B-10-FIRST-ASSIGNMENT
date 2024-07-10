@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+font-family: "Azeret Mono", monospace;
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#hero{
+
+    height: 652px;
+    background-image: url(./assets/Hero-bg.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#hero .hero-content .sub-title{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 68px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+#hero .hero-content .para{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+
+}
+#hero .hero-content .button{
+padding: 21px 24px 21px 24px;
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+border-radius: 8px;
+
+background: rgb(13, 19, 33);
+}
+#hero .btn-property{
+    text-align: center;
+}
+#hero .hero-content .image center{
+       /* Group */
+position: center;
+width: 173.03px;
+height: 228.9px;
+left: 243.4%;
+right: -215.41%;
+top: 0%;
+bottom: 4.63%;
+transform: rotate(180.00deg);
+}
+
+
+   
+    
+    
